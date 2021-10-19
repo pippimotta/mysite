@@ -1,0 +1,143 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #393E46;
+}
+
+h1 {
+  font-size: 5.62rem;
+  margin: 50px auto 0 auto;
+  position: relative;
+  padding-top: 50px;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Andada Pro', serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  margin-top:20px;
+}
+
+h3 {
+  font-family: 'Andada Pro', serif;
+  color: #11999E;
+  line-height: 2;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #EAF6F6;
+  border-width: 5px;
+  height: 0px;
+  width: 5%;
+}
+
+.second-hr {
+  position: relative;
+  left:300px;
+}
+.profile {
+  margin-top: 50px;
+}
+
+.introduction {
+  width: 50%;
+  margin: auto auto 20px auto;
+  color: #EAF6F6;
+}
+.top-container {
+  background-color:#222831;
+  position: relative;
+  padding-top: 80px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+  bottom:200px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  color: #EAF6F6;
+}
+
+.computer-image {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.rat {
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-description {
+  padding-bottom: 30px;
+}
+
+.contact-me {
+  margin-top: 100px;
+}
+
+#email-icon {
+  width: 5%;
+  height: 5%;
+  padding-top: 50px
+}
+
+#email-icon:hover {
+  content: url('../images/email2.png');
+  width:5%;
+}
+
+.foot-note {
+  width: 50%;
+  margin: auto auto 20px auto;
+  color: #EAF6F6;
+}
+
+.bottom-container {
+   background-color:#222831;
+   height: 100px;
+   position: relative;
+   height: 100px;
+   margin: 50px 0 0;
+   padding-top: 50px;
+}
+
+.footer-link {
+  color: #11999E;
+  text-decoration: none;
+  position: relative;
+  top: 0;
+  padding: 20px;
+}
+.footer-link:hover{
+  color: #EAF6F6;
+}
+
+.credit {
+  color:#EAF6F6;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
