@@ -42,7 +42,8 @@ hr {
 }
 
 .second-hr {
-  margin: auto auto;
+  position: relative;
+  right: 150px;
 }
 
 .profile {
