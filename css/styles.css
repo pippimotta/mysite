@@ -42,8 +42,7 @@ hr {
 }
 
 .second-hr {
-  position: relative;
-  left:300px;
+  margin: auto auto;
 }
 .profile {
   margin-top: 50px;
