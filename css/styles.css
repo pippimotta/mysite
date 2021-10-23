@@ -41,9 +41,8 @@ hr {
   width: 5%;
 }
 
-.second-hr {
-  position: relative;
-  right: 100px;
+.second-hr {  
+  margib: auto auto;
 }
 
 .profile {
